@@ -1,0 +1,16 @@
+.btn {
+    padding: 10px;
+    border: 1px solid black;
+    font-size: 0.875rem;
+    background-color: azure;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: rgb(223, 252, 252);
+}
+
+.btn:active {
+    background-color: rgb(196, 251, 251);
+}
