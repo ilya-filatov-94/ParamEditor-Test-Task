@@ -1,5 +1,4 @@
 # ParamEditor-Test-Task
-Test-Task (form class component)  
 
 ## Тестовое задание "Редактор параметров"  
 Тестовое задание на вакансию Frontend-developer  
